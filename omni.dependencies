@@ -8,7 +8,7 @@
   {
     "remote": "github",
     "repository": "LineageOS/android_kernel_xiaomi_onclite",
-    "target_path": "kernel/xiaomi/onclite",
+    "target_path": "kernel/xiaomi/onc",
     "revision": "lineage-18.1"
   }
 ]
